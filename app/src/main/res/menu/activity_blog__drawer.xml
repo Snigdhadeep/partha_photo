@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item
+            android:id="@+id/nav_home_blog"
+            android:icon="@drawable/homeicon"
+            android:title="HOME" />
+        <item
+            android:id="@+id/nav_gallery_blog"
+            android:icon="@drawable/icon1"
+            android:title="GALLERY" />
+        <item
+            android:id="@+id/nav_about_blog"
+            android:icon="@drawable/icon2"
+            android:title="ABOUT" />
+        <item
+            android:id="@+id/nav_favourite_blog"
+            android:icon="@drawable/icon3"
+            android:title="FAVOURITE" />
+
+
+        <item
+            android:id="@+id/nav_blog_blog"
+            android:icon="@drawable/icon4"
+            android:title="BLOG" />
+    </group>
+
+
+
+</menu>
